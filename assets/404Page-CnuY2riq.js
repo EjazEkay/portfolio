@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as s,a as n}from"./index-Cw9iB6mi.js";const a={},c={class:"notfound"};function r(_,e){return t(),s("div",c,e[0]||(e[0]=[n("p",null,"404 Not Found",-1)]))}const f=o(a,[["render",r],["__scopeId","data-v-432f0e80"]]);export{f as default};
