@@ -21,7 +21,9 @@ const sendEmail = () => {
   flex-direction: column;
   gap: 12px;
 }
-
+a {
+  width: 100%;
+}
 a:hover {
   text-decoration: none;
 }

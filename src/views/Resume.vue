@@ -66,12 +66,7 @@ import avatarUrl from '@/assets/avatar/avatar.jpg'
           <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Career Summary</h2>
           <div class="resume-section-content">
             <p class="mb-0">
-              Self-motivated and highly skilled self-taught developer with a BSc in Computer Science (2020-2024).
-              Proficient in various programming languages and technologies through independent learning and hands-on
-              experience in developing personal projects, including websites and applications. Adept at problem-solving,
-              coding, and continually improving through self-study and practical application. Seeking opportunities to
-              leverage my skills in a professional environment to contribute to innovative projects and grow as a
-              developer.
+              I am a skilled Full Stack Developer with expertise in Node.js and Vue.js, along with experience in Python. Over the past 4 years, I have built and maintained various web applications, demonstrating my ability to handle both front-end and back-end development tasks effectively.
             </p>
           </div>
         </section>

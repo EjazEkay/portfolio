@@ -107,10 +107,8 @@ const star4 = ref(3.6)
       <Card :title="$t('music')">
         <div class="listmusic">
           <p><headphoneIcon />Mustafa Jan-E-Rehmat Pay Lakhon Salam</p>
-          <p><headphoneIcon />Ya Habibal Qolbi</p>
-          <p><headphoneIcon />Wo Jali Hai Ya Khafi Hai</p>
-          <p><headphoneIcon />ISYFA'LANA (اِشْفَعْ لَنَا)</p>
           <p><headphoneIcon />Maikada 3 (Bus Ik Nigah)</p>
+          <p><headphoneIcon />Wo Jali Hai Ya Khafi Hai</p>
         </div>
       </Card>
     </div>
